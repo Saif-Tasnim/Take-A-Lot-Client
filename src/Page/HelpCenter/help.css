@@ -1,0 +1,7 @@
+.topic-head{
+    border-bottom: 1px solid transparent;
+}
+.topic-link:hover .topic-head{
+color:#0B79BF;
+border-bottom: 1px solid #0B79BF;
+}

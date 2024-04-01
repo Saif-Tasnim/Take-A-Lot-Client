@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "category" : "Books",
+        "path" : "/all/books"
+    },
+    {
+        "id": 2,
+        "category" : "Garden, Pool & Patio",
+        "path" : "/all/pool-garden"
+    },
+    {
+        "id": 3,
+        "category" : "Home & Kitchen",
+        "path" : "/all/home-kitchen"
+    },
+    {
+        "id": 4,
+        "category" : "Fashion",
+        "path" : "/all/fashion"
+    },
+    {
+        "id": 5,
+        "category" : "Computers & Tablets",
+        "path" : "/all/computers"
+    },
+    {
+        "id": 6,
+        "category" : "Toys",
+        "path" : "/all/toys"
+    },
+    {
+        "id": 7,
+        "category" : "Office & Stationery",
+        "path" : "/all/office-stationery"
+    },
+    {
+        "id": 8,
+        "category" : "Movies & Series",
+        "path" : "/all/movies"
+    },
+    {
+        "id": 9,
+        "category" : "Beauty",
+        "path" : "/all/beauty"
+    },
+    {
+        "id": 10,
+        "category" : "Sport",
+        "path" : "/all/sport"
+    },
+    {
+        "id": 11,
+        "category" : "Health",
+        "path" : "/all/health"
+    },
+    {
+        "id": 12,
+        "category" : "Camping & Outdoors",
+        "path" : "/all/camping-outdoor"
+    },
+    {
+        "id": 13,
+        "category" : "Baby & Toddler",
+        "path" : "/all/baby"
+    },
+    {
+        "id": 14,
+        "category" : "Cellphones & Wearables",
+        "path" : "/all/cellular-gps"
+    },
+    {
+        "id": 15,
+        "category" : "Luggage & Travel",
+        "path" : "/all/luggage-travel"
+    },
+    {
+        "id": 16,
+        "category" : "Pets",
+        "path" : "/all/pets"
+    },
+    {
+        "id": 17,
+        "category" : "Gaming",
+        "path" : "/all/gaming"
+    },
+    {
+        "id": 18,
+        "category" : "Cameras",
+        "path" : "/all/cameras"
+    },
+    {
+        "id": 19,
+        "category" : "TV, Audio & Video",
+        "path" : "/all/tv-audio-video"
+    },
+    {
+        "id": 20,
+        "category" : "Music",
+        "path" : "/all/music"
+    },
+    {
+        "id": 21,
+        "category" : "Vouchers",
+        "path" : "/all/vouchers"
+    }
+]

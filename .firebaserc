@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "must-take",
+    "staging": "must-take"
+  },
+  "targets": {},
+  "etags": {}
+}

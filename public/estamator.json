@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "Division":"Consumer Electronics",
+        "Department":[
+            "Smart Home & Connected Living","Electronic Accessories","Cameras","Gaming","Cost of Product","Computers & Laptops","Computer Components","Musical Instruments","TV & Audio","Mobile"
+        ]
+    
+    },
+    {
+        "id":2,
+        "Division":"Home",
+        "Department":[
+            "Small Applieance","HomeWare","Garde,Pool & patio","DIY","Automotive","Computers & Laptops","Computer Components","Musical Instruments","TV & Audio","Mobile"
+        ]
+    
+    },
+    {
+        "id":3,
+        "Division":"Personal & Lifestyle",
+        "Department":[
+            "Camping","Cycling","Sport:Clothing & Footwere","Fashion:Clothing","Fashion:FootWere","Fashion:Accessories","Sport:Equipment","Luggage","Beauty"
+        ]
+    
+    },
+    {
+        "id":4,
+        "Division":"Family",
+        "Department":[
+            "Baby","Toys","Pets","Health"
+        ]
+    
+    },
+    {
+        "id":5,
+        "Division":"Consumables",
+        "Department":[
+        "Health", "Liquor","Non Perishable"
+        ]
+    
+    },
+    {
+        "id":6,
+        "Division":"Media",
+        "Department":[
+            "Book","Movie","Music","Chritsmas"
+        ]
+    
+    },
+    {
+        "id":7,
+        "Division":"Office & Business",
+        "Department":[
+            "Office & Office Furniture","Stationery","Industrial,Business & Scientific"
+        ]
+    
+    }
+]

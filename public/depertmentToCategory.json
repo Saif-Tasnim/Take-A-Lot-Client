@@ -1,0 +1,41 @@
+[
+    {
+        "Department":"Smart Home & Connected Living",
+        "Category":["Intercoms → Intercoms","GPS Tracking Devices → Automotive GP","GPS Tracking Devices → Fitness GPS","GPS Tracking Devices → GPS Accesories","GPS Tracking Devices → GPS Tracker","GPS Tracking Devices → Handheld GPS","GPS Tracking Devices → Maps","GPS Tracking Devices → Outdoor GPS","GPS Tracking Devices → Street GPS","GPS Tracking Devices → Weather","Business & Home Security → Access Contro","Business & Home Security → CCTV Kits","Business & Home Security → Home Securitis Accesories","Business & Home Security → Security Cameras","Wearable Tech → Eyewear"]
+    },
+    {
+        "Department":"Electronic Accessories",
+        "Category":[
+            "Mobile Phone Accessories → Accessory Kit",
+            "Mobile Phone Accessories → Adapters",
+            "Mobile Phone Accessories → Camera lenss Protector",
+            "Mobile Phone Accessories → CellPhone Cables",
+            "Mobile Phone Accessories → Cleaning & Repiars",
+            "Mobile Phone Accessories → Gadgets & Novelties",
+            "Mobile Phone Accessories → In Car & HandFree Kits",
+            "Mobile Phone Accessories → Mobile Phone Camera Accessories → Lens Attachments",
+            "Mobile Phone Accessories → Mobile Phone Cases",
+            "Mobile Phone Accessories → Screen Protectors"
+        ]
+    },
+    {
+        "Department":"Baby",
+        "Category":[
+            "Baby Bathing → Baby Bathtubs & Bath Seat",
+            "Baby Bathing → Baby Combo Brush",
+            "Baby Bathing → Brush",
+            "Baby Bathing → Hair Brush ",
+            "Baby Bathing → Towel Mats",
+            "Baby Bathing → BackPacks ",
+            "Baby Bathing → Gift Bangles",
+            "Gifting → Baby Shower Sets",
+            "Gifting → Certificate Holder",
+            "Gifting → Farms",
+            "Gifting → New Born Sets",
+            "Gifting → Travel Bag",
+            "Gifting → Travel Sets"
+            
+            
+        ]
+    }
+]

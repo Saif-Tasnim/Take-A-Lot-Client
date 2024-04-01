@@ -1,0 +1,40 @@
+// Product list structure.
+{
+    "Prod_unique_id": "(for generator barcode/ or we can generate it)",
+    "name": "Nastec Nera Solar Pump 02/01H",
+    "brand": "Nastec",
+    "short_description": "If Any",
+    "description": "Nastec Nera Solar Pump 02/01HPackage SizeLength (mm): 760Weight (kg): 12.02Width (mm): 270Height (mm): 210\n\\nWhat's in the box\n\\n1 x Nastec Nera Solar Pump 02/01H",
+    "weight (kg)": "If any",
+    "length (cm)": "If any",
+    "width (cm)": "If any",
+    "height (cm)": "If any",
+    "price": "Product Price",
+    "discount_price": "if any",
+    "available_deal": "if any like(Featured Deals,Bundle Deals,App Only Deals,Daily Deals)",
+    "rating": 4,
+    "reviews": 123,
+    "comments": [
+        "All comments by buyer"
+    ],
+    "availabilities": "In Stock / 3 Days /5 Days /7 Days/12 Days/15 Days",
+    "color": [
+        "Available colors"
+    ],
+    "materials": "type of materials",
+    "warranty": "If any",
+    "category": "books/ pool-garden/ home-kitchen/ fashion/ computers/ toys/ office-stationery/ movies/ beauty/ sport/ health/ camping-outdoor/ baby/ cellular-gps/ luggage-travel/ pets/ gaming/ cameras/ tv-audio-video/ music/ vouchers (Give only specific category from this list according to your product)",
+    "subCategory": "patio-furniture",
+    "image_Urls": [
+        "https://media.takealot.com/covers_images/68c01fd6d8d540aa9167dbe57668c595/s-zoom.file",
+        "https://media.takealot.com/covers_images/68c01fd6d8d540aa9167dbe57668c595/s-zoom.file",
+        ".........Give all images of specific product"
+    ]
+}
+
+
+// Brand List structure
+{
+    "brand": "Victoria's Secret",
+    "totalProducts" : 200
+}
